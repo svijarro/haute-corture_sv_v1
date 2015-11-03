@@ -1,0 +1,52 @@
+/*
+color pallet
+primary color: #343340
+secondary color: #7F6D77
+accent color: #D7E5D2
+
+Heading : font-family: "Abril Fatface", cursive;
+Body Copy : font-family: "Old Standard TT", serif; 
+*/
+
+/* Global */
+
+body {
+ background: #7F6D77;   
+}
+
+/* Typography */
+h1, h2 {
+    color: #D7E5D2;
+    letter-spacing: 1px;
+    font-family: "Abril Fatface", cursive;
+}
+
+
+p, blockquote {
+ color: aliceblue;
+ font-family: "Old Standard TT", serif; 
+    line-height: 1.5em;
+    letter-spacing: 1px;
+}
+
+blockquote {
+    font-family: "Abril Fatface", cursive;
+    font-style: italic;
+    font-size: 2em;
+    padding: 1em;
+    text-align: center;
+}
+
+/* Images */
+
+section img{
+    width: 50%;
+}
+
+
+  
+
+
+
+
+    
